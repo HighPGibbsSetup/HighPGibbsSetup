@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<meta name="author" content="">
+	<meta name="description" content="Minima is a minimal, clean HTML5 multi-purpose template, well-coded & commented code"/>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+<header>
+
+		<div class="wrapper">
+			<a href="#" class="logo"> <img src="img/logo.png" height="80px" alt="" title="logo"/> </a>
+			<nav>
+				<ul>
+					
+					<li><a href="index.html">Introduction</a></li>
+					
+					<li><a href="Download.html">Download</a></li>
+					
+				</ul>
+			</nav>
+		</div>
+		
+	</header><!-- End Header -->
+<section class="billboard">
+<section class="caption" style="margin-left: 500px">
+<div style="margin-bottom: 80px;margin-left: 20px;font-family: 'open_semibold', arial;font-weight: bold;font-size: 25px;">
+	Click to download the files
+
+</div>
+			
+			<a href="http://47.93.192.148/download/HighPGibbs Setup.exe">Installation file<i></i></a>
+			<br>
+			<br>
+			<br>
+			<br>
+			<a style="margin-left: 40px" href="http://47.93.192.148/download/TutorialforHighPGibbs200209.pdf">Tutorial<i></i></a>
+		</section>
+<div style="margin-top:180px;margin-right:30px;float: right;font-family: 'Arial Unicode MS', Arial Unicode MS;font-size: 20px;">
+				zhongrichen@126.com
+			</div>
+	</section><!-- End billboard -->
+
+	</body>
